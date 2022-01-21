@@ -15,4 +15,4 @@ Time spent: **1.5** hours spent in total
 
 Here's a walkthrough of implemented user stories:
 
-![]("D:\memeapp.gif")
+![](https://i.imgur.com/FaWnQxf.gif)
